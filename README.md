@@ -24,9 +24,7 @@ Interactive Power BI dashboard on antibiotic resistance in Gram-negative bacteri
 
 ## Contents
 - `Dashboard/` — Power BI file (.pbix)
-- `Dataset/` — susceptibility data
-- `Dashboard Screenshots/` — dashboard views
-- `Project Summary.pdf` — full methodology
+- `Dashboard Screenshots/` — dashboard views and a dataset sample
 
 ## About Me
 Every data point on this dashboard started as a test tube on my laboratory bench.
