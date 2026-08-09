@@ -35,7 +35,8 @@ I am a microbiologist from the University of Ibadan, Nigeria, who ran the bioche
 Raw numbers trapped in a hardcopy thesis don't always drive real-world change, most times people need to see the danger to understand it. That realisation is what pushed me toward data analytics: turning microbiological findings into interactive, intuitive insights anyone can read, not just a shelf of lab reports.
 
 This dashboard is built from my final year undergraduate research,which is the first project where I turned data I personally generated in the laboratory into an interactive visualization.
-If this resonates with you, please drop a like to encourage more of this kind of data transformation.
+**If this resonates with you, please drop a like to encourage more of this kind of data transformation.**
+THANK YOU..
 
 [LinkedIn](https://www.linkedin.com/in/favour-oluwayomi-44b483247) · [Email](oluwayomifavour15@gmail.com)
 
