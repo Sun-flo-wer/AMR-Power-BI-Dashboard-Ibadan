@@ -34,7 +34,7 @@ Raw numbers trapped in a hardcopy thesis don't always drive real-world change, m
 
 This dashboard is built from my final year undergraduate research,which is the first project where I turned data I personally generated in the laboratory into an interactive visualization.
 **If this resonates with you, please drop a like to encourage more of this kind of data transformation.**
-THANK YOU..
+THANK YOU...
 
 [LinkedIn](https://www.linkedin.com/in/favour-oluwayomi-44b483247) · [Email](oluwayomifavour15@gmail.com)
 
